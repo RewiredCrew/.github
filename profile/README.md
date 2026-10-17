@@ -15,6 +15,8 @@ A Team of modders focused on developing mods for [Friday Night Funkin'](https://
 
 - [Requazar](https://x.com/requazar_) - Programmer
 
+- [TechnikTil](https://techniktil.tilnotdrip.org) - Programmer
+
 - [Biddle3](https://x.com/thedawg3_) - Composer
 
 - [CharaWhy](https://x.com/CharaWhyy) - Composer
